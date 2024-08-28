@@ -22,7 +22,7 @@ This project explores different machine learning algorithms to predict the media
 To get started, clone this repository and install the required dependencies:
 
 ```bash
-git clone <repository-url>
+git clone "https://github.com/Phantom-23/Housepriceprediction"
 cd house-price-prediction
 ```
 
